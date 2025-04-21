@@ -103,7 +103,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 
 ```
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 ![image](https://github.com/user-attachments/assets/0f75a679-54c9-45c2-a9ae-a50746dc6360)
@@ -119,7 +119,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 </br>
 </br>
 </br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Classification Report
 ![image](https://github.com/user-attachments/assets/6945651a-47e9-4518-9306-28547d08faf3)
@@ -127,7 +127,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 </br>
 </br>
 </br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### New Sample Prediction
 ![image](https://github.com/user-attachments/assets/934fd60f-415c-4fb8-b0c5-a270086eae84)
