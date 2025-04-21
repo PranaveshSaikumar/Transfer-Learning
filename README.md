@@ -103,7 +103,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 
 ```
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 ![image](https://github.com/user-attachments/assets/0f75a679-54c9-45c2-a9ae-a50746dc6360)
@@ -127,7 +127,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 </br>
 </br>
 </br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### New Sample Prediction
 ![image](https://github.com/user-attachments/assets/934fd60f-415c-4fb8-b0c5-a270086eae84)
@@ -136,7 +136,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 </br>
 </br>
 </br>
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 ## RESULT
 Thus, Implementation of Transfer Learning for classification using VGG-19 architecture is created successfully.
