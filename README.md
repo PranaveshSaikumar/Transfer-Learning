@@ -113,6 +113,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 </br>
 
 ### Confusion Matrix
+<br><br><br><br><br><br><br><br><br><br><br><br>
 ![image](https://github.com/user-attachments/assets/93566503-7e69-4ad7-935a-fcb0b4cff11d)
 
 </br>
@@ -120,6 +121,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 </br>
 
 ### Classification Report
+<br><br><br><br><br><br><br><br><br><br><br><br>
 ![image](https://github.com/user-attachments/assets/6945651a-47e9-4518-9306-28547d08faf3)
 
 </br>
@@ -127,6 +129,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 </br>
 
 ### New Sample Prediction
+<br><br><br><br><br><br><br><br><br><br><br><br>
 ![image](https://github.com/user-attachments/assets/934fd60f-415c-4fb8-b0c5-a270086eae84)
 
 
